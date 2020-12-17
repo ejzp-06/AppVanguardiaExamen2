@@ -5,6 +5,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using SolarEnergySystem.Infrastructure;
+using SolarEnergySystem.API.Models;
+using SolarEnergySystem.Core.Interfaces;
+using SolarEnergySystem.Core.Enums;
 
 namespace SolarEnergySystem.API.Controllers
 {
@@ -12,17 +15,28 @@ namespace SolarEnergySystem.API.Controllers
     [Route("[controller]")]
     public class PanelsController : ControllerBase
     {
-        private readonly SolarEnergySystemDatabaseContext _context;
 
-        public PanelsController(SolarEnergySystemDatabaseContext context)
+        private readonly IPanelService _panelService;
+
+        public PanelsController(IPanelService panelService)
         {
-            _context = context;
+            _panelService = panelService;
         }
 
+
         [HttpGet]
-        public IActionResult Get()
+        public ActionResult<IEnumerable<PanelDto>> GetPanelsByDescendingOrder()
         {
-            return Ok(_context.Panel.ToList());
+            var ServiceResult = _panelService.GetPanelsByDescedingOrder();
+            if (ServiceResult.ResponseCode != ResponseCode.Success)
+                return BadRequest(ServiceResult.Error);
+
+            return Ok(ServiceResult.Result.Select(p => new PanelDto
+            {
+                NumeroDeSerie = p.Id,
+                Type = p.PanelType,
+                Unit = p.MeasuringUnit
+            }));
         }
     }
 }

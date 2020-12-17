@@ -1,0 +1,8 @@
+C:\Users\ejzp_\Source\Repos\AppVanguardiaExamen2\src\SolarEnergySystem.Core\bin\Debug\netcoreapp3.1\SolarEnergySystem.Core.deps.json
+C:\Users\ejzp_\Source\Repos\AppVanguardiaExamen2\src\SolarEnergySystem.Core\bin\Debug\netcoreapp3.1\SolarEnergySystem.Core.dll
+C:\Users\ejzp_\Source\Repos\AppVanguardiaExamen2\src\SolarEnergySystem.Core\bin\Debug\netcoreapp3.1\SolarEnergySystem.Core.pdb
+C:\Users\ejzp_\Source\Repos\AppVanguardiaExamen2\src\SolarEnergySystem.Core\obj\Debug\netcoreapp3.1\SolarEnergySystem.Core.AssemblyInfoInputs.cache
+C:\Users\ejzp_\Source\Repos\AppVanguardiaExamen2\src\SolarEnergySystem.Core\obj\Debug\netcoreapp3.1\SolarEnergySystem.Core.AssemblyInfo.cs
+C:\Users\ejzp_\Source\Repos\AppVanguardiaExamen2\src\SolarEnergySystem.Core\obj\Debug\netcoreapp3.1\SolarEnergySystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\ejzp_\Source\Repos\AppVanguardiaExamen2\src\SolarEnergySystem.Core\obj\Debug\netcoreapp3.1\SolarEnergySystem.Core.dll
+C:\Users\ejzp_\Source\Repos\AppVanguardiaExamen2\src\SolarEnergySystem.Core\obj\Debug\netcoreapp3.1\SolarEnergySystem.Core.pdb
