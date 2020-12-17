@@ -599,11 +599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ejzp_\\Source\\Repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.API\\SolarEnergySystem.API.csproj",
+      "projectUniqueName": "C:\\Users\\ejzp_\\source\\repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.API\\SolarEnergySystem.API.csproj",
       "projectName": "SolarEnergySystem.API",
-      "projectPath": "C:\\Users\\ejzp_\\Source\\Repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.API\\SolarEnergySystem.API.csproj",
+      "projectPath": "C:\\Users\\ejzp_\\source\\repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.API\\SolarEnergySystem.API.csproj",
       "packagesPath": "C:\\Users\\ejzp_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ejzp_\\Source\\Repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.API\\obj\\",
+      "outputPath": "C:\\Users\\ejzp_\\source\\repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ejzp_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -620,11 +620,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ejzp_\\Source\\Repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.Core\\SolarEnergySystem.Core.csproj": {
-              "projectPath": "C:\\Users\\ejzp_\\Source\\Repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.Core\\SolarEnergySystem.Core.csproj"
+            "C:\\Users\\ejzp_\\source\\repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.Core\\SolarEnergySystem.Core.csproj": {
+              "projectPath": "C:\\Users\\ejzp_\\source\\repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.Core\\SolarEnergySystem.Core.csproj"
             },
-            "C:\\Users\\ejzp_\\Source\\Repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.Infrastructure\\SolarEnergySystem.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\ejzp_\\Source\\Repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.Infrastructure\\SolarEnergySystem.Infrastructure.csproj"
+            "C:\\Users\\ejzp_\\source\\repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.Infrastructure\\SolarEnergySystem.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ejzp_\\source\\repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.Infrastructure\\SolarEnergySystem.Infrastructure.csproj"
             }
           }
         }

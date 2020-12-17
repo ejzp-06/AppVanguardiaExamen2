@@ -1235,6 +1235,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.InMemory": "5.0.1",
+          "SolarEnergySystem.Core": "1.0.0",
           "SolarEnergySystem.Infrastructure": "1.0.0"
         },
         "runtime": {

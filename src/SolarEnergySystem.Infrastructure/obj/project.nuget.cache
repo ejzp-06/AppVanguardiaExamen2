@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ILTkMkv894esdHJ+2RJWVXoeluXKB+MWskWBuoAk6bQr1gLI5PoEHSxFdK+Woaj1M66QxPSCXpK8AmYfGa+CkQ==",
+  "dgSpecHash": "6Wvo5M1PSLrfXrZMVdhnxJtX1LIXuA/MRVMnk7knnuhwgZr6cOoOZIzzDpXfI4j35bdkMB6kY2i5ERb9Uow7dA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ejzp_\\Source\\Repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.Infrastructure\\SolarEnergySystem.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\ejzp_\\source\\repos\\AppVanguardiaExamen2\\src\\SolarEnergySystem.Infrastructure\\SolarEnergySystem.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ejzp_\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.1\\microsoft.entityframeworkcore.5.0.1.nupkg.sha512",
     "C:\\Users\\ejzp_\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.1\\microsoft.entityframeworkcore.abstractions.5.0.1.nupkg.sha512",

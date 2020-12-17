@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rdT2aDY0LCmUs+0Qgh9Yr1pKncxrM0WEfP+IzigAFRcMw/rm2eRJE8wu7VhjFagipL8pZ/oQ/b74Vveae8rq/w==",
+  "dgSpecHash": "VKT4sw7oHCefrkUYL7jsctbMh4Am2aLG1bRz9QOfefDYC/nQOUYIjr1BHqznWF73GJPMmMuM8l7bDCNAunUACQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ejzp_\\Source\\Repos\\AppVanguardiaExamen2\\XUnitTest\\XUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\ejzp_\\source\\repos\\AppVanguardiaExamen2\\XUnitTest\\XUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ejzp_\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\ejzp_\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
